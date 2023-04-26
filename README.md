@@ -10,4 +10,4 @@
 <br /><br />
 📝 I regularly write articles on <a href="https://blog.rabu.me">blog.rabu.me<a/>
 <br /><br />
-🌱 I’m currently learning <b> vue, react, golang and tailwind css </b> 
+🌱 I’m currently learning <b> vue, react and golang</b> 
