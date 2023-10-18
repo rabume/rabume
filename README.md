@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael aka rabu</h1>
-<h3 align="center">I'm a web developer, creator and problem solver based in Switzerland</h3>
+<h3 align="center">I'm a software developer, creator and problem solver based in Switzerland</h3>
 <br />
 <!--
 <p align="center">
