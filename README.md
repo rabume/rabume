@@ -13,5 +13,3 @@
 📝 I regularly write articles on <a href="https://blog.rabu.me">blog.rabu.me<a/>
 <br /><br />
 🎥 You can also find me on <a href="https://www.youtube.com/@rabume/">YouTube<a/> 
-<br /><br />
-🌱 I’m currently learning <b> vue, react and golang</b> 
